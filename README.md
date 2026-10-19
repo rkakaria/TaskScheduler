@@ -12,6 +12,7 @@ The file Task_Scheduler.py initializes several tasks (as objects) of different d
 
 ## Running the Program
 ```python3 Task_scheduler.py```
+
 Follow the resulting terminal prompt to choose an approach.
 
 ## Algorithmic Approach
